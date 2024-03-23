@@ -7,8 +7,6 @@ Welcome to the JavaScript Notes repository! Here, you'll find a collection of no
 - [Introduction](#introduction)
 - [Folder Structure](#folder-structure)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -21,8 +19,6 @@ The repository is organized into the following folders:
 - **Basics**: Contains notes and code snippets covering fundamental JavaScript concepts such as variables, functions, loops, conditionals, and data structures.
 - **Advanced**: Includes more advanced topics like object-oriented programming (OOP), asynchronous programming with Promises and async/await, closures, and higher-order functions.
 - **Web_Development**: Provides tutorials and projects related to front-end web development using JavaScript, HTML, and CSS, as well as popular libraries and frameworks like React, Vue.js, and Angular.
-- **Node.js**: Contains resources for server-side JavaScript development using Node.js, including tutorials on building APIs, working with databases, and deploying applications.
-- **Projects**: This folder houses complete JavaScript projects that demonstrate real-world applications of JavaScript programming concepts.
 
 Feel free to explore these folders to find notes, examples, and projects that suit your learning goals.
 
